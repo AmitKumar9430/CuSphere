@@ -15,7 +15,7 @@ Student project selection and Admin Management System (Crafted by code, driven b
 **A centralized platform to manage academic projects across subjects, sections, and departments.**  
 Students can select projects, form teams, submit files, and collaborate — all in one place.
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
+[🚀 Live Demo](https://cusphere.netlify.app/) • [📖 Documentation](#features) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
 
 </div>
 
@@ -460,6 +460,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Built with  at Chandigarh University — Innovation Hub**
 
-*© 2024 ProjectSphere · Version 2.0.1*
+*© 2024 CuSphere · Version 2.0.1*
 
 </div>
