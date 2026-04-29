@@ -80,7 +80,7 @@ Students can select projects, form teams, submit files, and collaborate — all 
 ---
 
 ### 🤖 AI Project Assistant (Chatbot)
-![Chatbot](./screenshots/chatbot.png)
+![Chatbot](./screenshots/feedback-center.png)
 > AI-powered chatbot with category buttons: Registration, Team Selection, Submit Project, Feedback Center, Support, and Developer.
 
 ---
