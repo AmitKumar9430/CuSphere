@@ -59,6 +59,11 @@ Students can select projects, form teams, submit files, and collaborate — all 
 - **Notification Bell** — Real-time announcements from admin
 - **About Page** — Platform stats, mission, vision, and club listings
 
+##🌐 Clubs & Communities
+- **C Square Club — A coding and innovation hub for developers and competitive programmers
+- **Rotaract Club — Focused on leadership, social service, and community engagement
+- **Young Orator Club — Dedicated to enhancing communication and public speaking skills
+
 ### 🔐 Admin Side
 - **Secure Admin Login** — Protected dashboard with email/password auth
 - **Admin Dashboard** — Stats cards: Total Teams, Section A/B, Projects, Submissions
