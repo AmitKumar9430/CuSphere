@@ -86,22 +86,35 @@ Students can select projects, form teams, submit files, and collaborate — all 
 ---
 
 ### 👥 Team Registration
-![Team Registration](./screenshots/team-registration.png)
+![Team Registration](./screenshots/suggestions-give.png)
 > Students register teams by selecting subject, group (A/B), team leader, and teammates. Registered teams appear on the right panel in real time.
 
 ---
 
 ### 📁 Project Submission
-![Project Submission](./screenshots/project-submission.png)
+![Project Submission](./screenshots/suggestions-previous.png)
 > Students upload their PowerPoint Presentation (.ppt/.pptx) and Report, with sample file downloads available.
 
 ---
 
+### 🌐 Clubs & Communities
+![C Square Club](./screenshots/C_Square_Club.png)
+>A coding-focused community interface showcasing innovation and technical collaboration.
+Includes sections like About, Events, Team, and Contact with clear actions such as Join the Club and Upcoming Events.
+
+![Rotaract Club](./screenshots/Rotaract_Club.png)
+>A service-driven platform promoting leadership, community engagement, and social impact.
+Highlights mission-oriented content with options like Join Us Today and View Events for active participation.
+
+![YoungOrator Club](./screenshots/YoungOrator_Club.png)
+> A public speaking and communication platform designed to inspire confidence and expression.
+Features event participation, team collaboration, and actions like Join the Club and Upcoming Events.
+
 ### ⭐ Feedback Center
-![Feedback Center](./screenshots/feedback-center.png)
+![Feedback Center](./screenshots/project-submission.png)
 > Two options: Submit Feedback or View all ratings & reviews (15 total shown).
 
-![Feedback Submit](./screenshots/feedback-submit.png)
+![Feedback Submit](./screenshots/team-registration.png)
 > Feedback form with Name, Email, Star Rating, and Message fields.
 
 ![Feedback Reviews](./screenshots/feedback-reviews.png)
@@ -110,10 +123,10 @@ Students can select projects, form teams, submit files, and collaborate — all 
 ---
 
 ### 💡 Suggestions Panel
-![Give Suggestion](./screenshots/suggestions-give.png)
+![Give Suggestion](./screenshots/dashboard-floating-buttons.png)
 > Submit suggestions with a title and description via a popup form.
 
-![Previous Suggestions](./screenshots/suggestions-previous.png)
+![Previous Suggestions](./screenshots/chatbot.png)
 > View previously submitted suggestions with status badges: `pending`, `reviewed`, `approved`.
 
 ---
