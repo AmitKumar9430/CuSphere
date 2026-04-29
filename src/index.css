@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --sidebar-width: 256px;
+}
+
+body {
+  margin-left: var(--sidebar-width);
+  transition: margin-left 300ms ease-in-out;
+}
+
+/* For mobile, remove the margin */
+@media (max-width: 1023px) {
+  body {
+    margin-left: 0 !important;
+  }
+}
